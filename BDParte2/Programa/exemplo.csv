@@ -1,0 +1,21 @@
+id; genero; nome; data_nascimento; NIF; salario; cod_postal; distrito; rua; porta; data_inic_contrato; data_fim_contrato; tipo; CC; coordenado_por
+1; "M"; "António Xavier"; "1948-04-27"; "103358994"; "3800.00"; "4100-248"; "Porto"; "Rua Figueiras"; "117"; "1980-04-22"; NULL; "Detetive"; "38225981"; NULL
+2; "F"; "Olívia Ramos"; "1973-12-12"; "119703475"; "3200.00"; "4050-211"; "Porto"; "Rua do Comércio"; "60"; "1986-06-12"; NULL; "Administrador"; "31150908"; NULL
+3; "F"; "Elisabete Cerqueira"; "1997-08-20"; "290187222"; "1400.00"; "4405-585"; "Porto"; "Rua Pádua Correia"; "68"; "2017-01-22"; NULL; "Detetive"; "32153813"; NULL
+4; "M"; "Luís Viveiros"; "1992-03-06"; "214910954"; "1800.00"; "3000-291"; "Coimbra"; "Travessa Moura Sá"; "51"; "2014-11-30"; NULL; "Detetive"; "14661537"; NULL
+5; "F"; "Carolina Barros"; "1976-09-07"; "176726675"; "2200.00"; "3500-149"; "Viseu"; "Alameda Luís de Camões"; "112"; "2012-03-04"; "2021-10-20"; "Administrador"; "19878455"; NULL
+6; "M"; "Lucas Pires"; "1981-02-06"; "181882361"; "2600.00"; "6000-252"; "Castelo Branco"; "Rua Nova"; "100"; "2007-10-23"; NULL; "Administrador"; "38550464"; NULL
+7; "M"; "Afonso Mourinho"; "1994-03-20"; "222957352"; "1600.00"; "2025-601"; "Santarém"; "Rua São Sebastião"; "58"; "2019-08-02"; NULL; "Detetive"; "16972690"; NULL
+8; "M"; "Salvador Matos"; "1987-08-05"; "273404202"; "2000.00"; "2400-076"; "Leiria"; "Rua Miguel Bombarda"; "117"; "2016-06-20"; NULL; "Detetive"; "34195774"; NULL
+9; "F"; "Maia Sampaio"; "1979-06-11"; "198905289"; "2200.00"; "4804-536"; "Braga"; "Rua Doutor Manuel Faria"; "50"; "2001-12-14"; NULL; "Administrador"; "14382754"; NULL
+10; "M"; "João Sousa"; "2000-06-16"; "235985376"; "1200.00"; "4580-328"; "Porto"; "Rua Alegria"; "32"; "2023-02-26"; NULL; "Detetive"; "39082335"; NULL
+11; "F"; "Mafalda Cristóvão"; "1996-08-10"; "274408074"; "2000.00"; "5000-311"; "Vila Real"; "Avenida Noruega"; "9"; "2021-10-10"; NULL; "Administrador"; "31659727"; NULL
+12; "F"; "Adriana Neves"; "1987-01-01"; "202688577"; "1800.00"; "4760-643"; "Braga"; "Rua Igreja"; "90"; "2014-02-20"; "2020-08-16"; "Detetive"; "16712112"; NULL
+13; "F"; "Ana Soares"; "1992-07-21"; "228371368"; "1600.00"; "4500-455"; "Vila Real"; "Rua Cachoeira"; "36"; "2018-03-12"; NULL; "Detetive"; "37812045"; NULL
+14; "M"; "Ricardo Peixoto"; "1989-03-01"; "244219273"; "1800.00"; "7470-139"; "Portalegre"; "Rua Doutor Pires Miguens"; "8"; "2009-10-26"; NULL; "Administrador"; "36209909"; NULL
+15; "M"; "Miguel Rodrigues"; "1977-10-26"; "211623148"; "2200.00"; "2765-125"; "Lisboa"; "Avenida Lago"; "63"; "2013-05-05"; NULL; "Detetive"; "33252078"; NULL
+16; "F"; "Neusa Figueiro"; "2002-03-22"; "233217266"; "1400.00"; "2004-006"; "Santarém"; "Rua Vasco da Gama"; "115"; "2022-01-02"; NULL; "Detetive"; "33649238"; NULL
+17; "F"; "Beatriz Marques"; "1985-02-05"; "210098325"; "2000.00"; "3060-318"; "Coimbra"; "Rua Pero Vaz Caminha"; "14"; "2010-06-06"; NULL; "Administrador"; "18197653"; NULL
+18; "M"; "José Vasques"; "1979-05-09"; "142647675"; "2400.00"; "4420-309"; "Porto"; "Rua Oliveirinhas"; "99"; "2006-07-08"; NULL; "Detetive"; "17225791"; NULL
+19; "M"; "Joaquim Martins"; "1984-05-10"; "160617405"; "1800.00"; "2784-508"; "Lisboa"; "Rua Diogo Cão"; "17"; "2012-08-23"; NULL; "Detetive"; "11705691"; NULL
+20; "F"; "Mariana Carreiro"; "1990-03-12"; "181227789"; "2200.00"; "7050-513"; "Évora"; "Rua Maria M Tavares"; "81"; "2015-09-25"; NULL; "Detetive"; "35837175"; NULL
